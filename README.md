@@ -3,13 +3,15 @@
 <h1 align="center">Hi, I'm Adrian</h1>
 <h3 align="center">A programming and cyber security interested student from Germany</h3>
 
+**<h><a href="https://zsx-adrian.github.io">My website</a></h>**
+
 - Currently learning: **cyber security, Photo Editing**
 
-- All of my projects are available at [https://github.com/zsx-adrian](https://github.com/zsx-adrian)
+- All of my projects are available at **<a href="https://github.com/zsx-adrian">My Github</a>**
 
 - Ask me about: **Python, InfoSec**
 
-- Reach me via: **<a href="https://zsx-dev.github.io/contact"> Contact </a>**
+- Reach me via: **<a href="https://zsx-dev.github.io/contact">Contact</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
