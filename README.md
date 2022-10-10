@@ -9,7 +9,7 @@
 
 - Ask me about: **Python, InfoSec**
 
-- Reach me via: adrian.kelc@gmail.com
+- Reach me via: zsx-adrian.github.io/contact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
