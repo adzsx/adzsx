@@ -9,7 +9,7 @@
 
 - Ask me about: **Python, InfoSec**
 
-- Reach me via: zsx-adrian.github.io/contact
+- Reach me via: **<a href="https://zsx-dev.github.io/contact"> Contact </a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
