@@ -1,4 +1,4 @@
-<img src="https://github.com/zsx-adrian/zsx-adrian/blob/main/lock.gif" alt="" align="center">
+<img src="https://github.com/zsx-adrian/zsx-adrian/blob/main/lock.gif" alt="" align="center" width=100%>
 
 <h1 align="center">Hi, I'm Adrian</h1>
 <h3 align="center">A programming and cyber security interested student from Germany</h3>
