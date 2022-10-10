@@ -3,8 +3,6 @@
 <h1 align="center">Hi, I'm Adrian</h1>
 <h3 align="center">A programming and cyber security interested student from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zsx-adrian&label=Profile%20views&color=0e75b6&style=flat" alt="zsx-adrian" /> </p>
-
 - Currently learning: **cyber security, Photo Editing**
 
 - All of my projects are available at [https://github.com/zsx-adrian](https://github.com/zsx-adrian)
