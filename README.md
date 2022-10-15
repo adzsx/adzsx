@@ -5,7 +5,7 @@
 
 - Currently learning: **cyber security, Photo Editing**
 
-- All of my projects are available at **<a href="https://github.com/zsx-adrian">My Github</a>**
+- All of my projects are available at **<a href="https://github.com/adzsx">My Github</a>**
 
 - Ask me about: **Python, InfoSec**
 
