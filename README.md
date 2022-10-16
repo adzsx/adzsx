@@ -3,7 +3,7 @@
 
 **<h align="center" font-size=20><a href="https://adzsx.github.io">My website</a></h>**
 
-- Currently learning: **cyber security, Photo Editing**
+- Currently learning: **Programming and Cyber Security**
 
 - All of my projects are available at **<a href="https://github.com/adzsx">My Github</a>**
 
