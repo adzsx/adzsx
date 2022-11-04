@@ -1,13 +1,11 @@
-<h1 align="center">Hi, I'm Adrian</h1>
-<h3 align="center">A programming and cyber security interested student from Germany</h3>
+<h1 align="center">Helo there!</h1>
+<h3 align="center">I am a Student interested in Cyber Security and programming</h3>
 
 **<h align="center" font-size=20><a href="https://adzsx.github.io">My website</a></h>**
 
 - Currently learning: **Programming and Cyber Security**
 
 - All of my projects are available at **<a href="https://github.com/adzsx">My Github</a>**
-
-- Ask me about: **Python, InfoSec**
 
 - Reach me via: **<a href="https://adzsx.github.io/#contact">Contact</a>**
 
