@@ -1,4 +1,4 @@
-<h1 align="center">Helo there!</h1>
+<h1 align="center">Hello there!</h1>
 <h3 align="center">I am a Student interested in Cyber Security and programming</h3>
 
 **<h align="center" font-size=20><a href="https://adzsx.github.io">My website</a></h>**
