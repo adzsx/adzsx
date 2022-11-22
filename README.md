@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!</h1>
-<h3 align="center">I am a Student interested in cyber security and programming</h3>
+<h3 align="center">I am a student interested in cyber security and programming</h3>
 
 
 <hr>
