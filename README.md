@@ -31,4 +31,4 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=adzsx&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
 <img alt="Contribution graph" src="https://activity-graph.herokuapp.com/graph?username=Adzsx&bg_color=1a1b27&color=7aa2f7&line=FFFFFF&point=5ce1e6&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adzsx&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adzsx&theme=tokyonight&hide_border=true"/>
