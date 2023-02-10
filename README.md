@@ -11,7 +11,7 @@
 
 <h3>You cen reach me via:</h3>
 
-- [My Website](https://adzsx.github.io)
+- [My Website](https://adzsx.github.io/#contact)
 - adzsx@proton.me
   
  
