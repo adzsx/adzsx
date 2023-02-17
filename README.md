@@ -1,5 +1,5 @@
 # **<p align="center">Hello there!</p>**
-<h3 align="center">I am a software developer interested in cyber security</h3>
+<h3 align="center">I am a software developer interested in cyber security. I mostly develop hacking tools</h3>
 
 <p align="left">
 </p>
