@@ -9,7 +9,7 @@
 
 #
 
-<h3>You cen reach me via:</h3>
+<h3>You can reach me via:</h3>
 
 - [My Website](https://luc1dph0b1a.github.io/#contact)
 - lucidphobia@proton.me
