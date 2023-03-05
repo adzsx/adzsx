@@ -19,6 +19,4 @@
 <h3>Stats:</h3>
  
  
-<img src="https://github-readme-stats.vercel.app/api?username=luc1dph0b1a&show_icons=true&theme=tokyonight&hide_border=true" width="50%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luc1dph0b1a&theme=tokyonight&hide_border=true" width="24.3%"/>
-
-<img alt="" src="https://activity-graph.herokuapp.com/graph?username=luc1dph0b1a&bg_color=1a1b27&color=7aa2f7&line=FFFFFF&point=5ce1e6&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=luc1dph0b1a&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luc1dph0b1a&theme=tokyonight&hide_border=true"/>
