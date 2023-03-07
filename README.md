@@ -19,4 +19,4 @@
 <h3>Stats:</h3>
  
  
-<img src="https://github-readme-stats.vercel.app/api?username=luc1dph0b1a&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luc1dph0b1a&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adzsx&show_icons=true&theme=tokyonight&hide_border=true"/>
