@@ -11,8 +11,8 @@
 
 <h3>You can reach me via:</h3>
 
-- [My Website](https://luc1dph0b1a.github.io/#contact)
-- lucidphobia@proton.me
+- [My Website](https://adzsx.github.io/#contact)
+- adzsx@proton.me
   
  
 #
