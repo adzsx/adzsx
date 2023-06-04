@@ -17,6 +17,19 @@
  
 #
 <h3>Stats:</h3>
- 
- 
-<img src="https://github-readme-stats.vercel.app/api?username=adzsx&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<p>
+  <a href="https://github.com/adzsx">
+    <img width="500px" src="https://github-readme-stats.vercel.app/api?username=adzsx&show_icons=true&theme=transparent&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/adzsx">
+    <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adzsx&langs_count=5&hide_border=true&theme=transparent" />
+  </a>
+  
+  <a href="https://github.com/adzsx">
+    <img width="750px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adzsx&theme=transparent" />
+  </a>
+  
+</p>
