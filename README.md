@@ -41,7 +41,7 @@
 
 #
 
-<h3>You can reach me at adzsx@proton.me</h3>
+<h3>You can reach me at <a href="mailto: adzsx@proton.me">adzsx@proton.me</a></h3>
   
  
 #
