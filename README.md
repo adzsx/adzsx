@@ -41,10 +41,7 @@
 
 #
 
-<h3>You can reach me via:</h3>
-
-- [My Website](https://adzsx.github.io/#contact)
-- adzsx@proton.me
+<h3>You can reach me at adzsx@proton.me</h3>
   
  
 #
