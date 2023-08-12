@@ -4,15 +4,16 @@
 
 #
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills and languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,python,html,css,js,bash,vscode,vim,git,github,linux,stackoverflow&perline=6" />
+    <img src="https://skillicons.dev/icons?i=golang,python,html,css,js,vscode,vim,git,github,linux&perline=5" />
   </a>
 </p>
 
 
 #
+<!--
 <h3>Stats:</h3>
 
 
@@ -29,4 +30,17 @@
     <img width="750px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adzsx&theme=transparent" />
   </a>
   
+</p>
+-->
+
+<h3 align="left">My projects:</h3>
+
+<p align="center">
+  <a href="https://github.com/adzsx/gwire">
+    <img src="https://github.com/adzsx/gwire/blob/main/img/gwire-banner.png" height="150px">
+  </a>
+<br>
+  <a href="https://github.com/adzsx/xcrack">
+    <img src="https://github.com/adzsx/xcrack/blob/main/img/xcrack-banner.png" height="150px">
+  </a>
 </p>
