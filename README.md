@@ -37,10 +37,10 @@
 
 <p align="center">
   <a href="https://github.com/adzsx/gwire">
-    <img src="https://github.com/adzsx/gwire/blob/main/img/gwire-banner.png" height="150px">
+    <img src="https://github.com/adzsx/gwire/blob/main/img/gwire-banner.png" height="200px">
   </a>
 <br>
   <a href="https://github.com/adzsx/xcrack">
-    <img src="https://github.com/adzsx/xcrack/blob/main/img/xcrack-banner.png" height="150px">
+    <img src="https://github.com/adzsx/XCrack/blob/main/img/xcrack-banner.png" height="200px">
   </a>
 </p>
