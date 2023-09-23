@@ -7,7 +7,7 @@
 <h3 align="left">Skills and languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,python,html,css,js,vscode,vim,git,github,linux&perline=5" />
+    <img src="https://skillicons.dev/icons?i=golang,python,html,css,js,vscode,vim,git,github,linux,docker&perline=5" />
   </a>
 </p>
 
