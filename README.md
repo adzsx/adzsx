@@ -2,15 +2,15 @@
 <h3 align="center">I am a software developer interested in cyber security</h3>
 <p align="center">I like to code in Go and Python and sometimes HTML/CSS/JS</p>
 
+<!--
 #
-
 <h3 align="left">Skills and languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=golang,python,html,css,js,vscode,vim,git,github,linux,docker&perline=5" />
   </a>
 </p>
-
+-->
 
 #
 <!--
