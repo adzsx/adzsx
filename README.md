@@ -1,6 +1,5 @@
 # **<p align="center">Hello there!</p>**
-<h3 align="center">I am a software developer interested in cyber security</h3>
-<p align="center">I like to code in Go and Python and sometimes HTML/CSS/JS</p>
+<h3 align="center">I am a Cyber Security enthusiast who likes to code security tools <br> and some other stuff</h3>
 
 <!--
 #
