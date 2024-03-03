@@ -42,4 +42,9 @@
   <a href="https://github.com/adzsx/xcrack">
     <img src="https://github.com/adzsx/XCrack/blob/main/assets/xcrack-banner.png" height="200px">
   </a>
+<br>
+  <a href="https://github.com/adzsx/WebDuck">
+    <img src="https://github.com/adzsx/WebDuck/blob/main/webDuck-header.png" height="200px">
+  </a>
+  
 </p>
