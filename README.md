@@ -46,5 +46,26 @@
   <a href="https://github.com/adzsx/WebDuck">
     <img src="https://github.com/adzsx/WebDuck/blob/main/webDuck-header.png" height="200px">
   </a>
+
+<br>
+<br>
+<br>
   
+</p>
+<h3 align="left">Languages:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=golang,python,js,html,css,bash,powershell" />
+  </a>
+</p>
+<br>
+<br>
+<br>
+
+
+<h3 align="left">Skills and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple,git,docker,fediverse,vim,vscodium,obsidian&perline=3" />
+  </a>
 </p>
