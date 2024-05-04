@@ -46,6 +46,10 @@
   <a href="https://github.com/adzsx/WebDuck">
     <img src="https://github.com/adzsx/WebDuck/blob/main/webDuck-header.png" height="200px">
   </a>
+<br>
+  <a href="https://github.com/adzsx/difugo">
+    <img src="https://github.com/adzsx/difugo/blob/main/assets/difugo-banner.png" height="200px">
+  </a>
 
 <br>
 <br>
