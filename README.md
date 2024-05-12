@@ -47,8 +47,8 @@
     <img src="https://github.com/adzsx/WebDuck/blob/main/webDuck-header.png" height="200px">
   </a>
 <br>
-  <a href="https://github.com/adzsx/difugo">
-    <img src="https://github.com/adzsx/difugo/blob/main/assets/difugo-banner.png" height="200px">
+  <a href="https://github.com/adzsx/axolyn">
+    <img src="https://github.com/adzsx/axolyn/blob/main/assets/axolyn-banner.png" height="200px">
   </a>
 
 <br>
