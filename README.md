@@ -52,6 +52,8 @@
   </a>
 
 <br>
+Project images made with <a href="https://leviarista.github.io/github-profile-header-generator/">Levarista's profile header generator</a>
+<br>
 <br>
 <br>
   
